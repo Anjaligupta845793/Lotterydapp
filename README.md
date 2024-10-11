@@ -18,6 +18,9 @@ This is a decentralized lottery application (DApp) built using Chainlink VRF (Ve
 The deployed smart contract address is:
 0xF442A3743171229300DFf28c32A34Fedd820200c
 
+## Lottery Dapp 
+website address : https://67090954b3ea235a83ebcfd0--superlative-pie-11bb83.netlify.app/
+
 ## How It Works
 1. Users purchase lottery tickets through the DApp interface.
 2. Upon reaching the ticket sales deadline, the DApp requests a random number from Chainlink VRF.
